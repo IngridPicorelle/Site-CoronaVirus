@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#logo{margin-top: 5px; margin-left: 135px; position: absolute;}
+
+#menu{margin-top: 100px; margin-left: 500px; position: absolute;}
+#menu ul li { display: inline; }
+
+#titulo{margin-top: 10px; margin-left: 800px; position: absolute;}
+
+
+#pesquisa{margin-top: 20px; margin-left: 100px; position: absolute; width: 200px; border: 1px solid; text-align: center;}
+
+#button{margin-top: 20px; margin-left: 318px; position: absolute; border-radius: 50%;}
+
+#rodape{margin-top:550px;margin-left: 135px; position : absolute; width : 1057px; height: 40px; background-color:#000000;}
+#copy{margin-top:10px; margin-left: 320px; position : absolute; width : 900x;}
+.copyright{color: #FFF; font-size: 11.5px; font-family: arial; font-weight: bold;}
+#tel{margin-left: 165px; margin-top: 0px; position: absolute; width: 200px;}
+.button1{border-radius: 12px;}
+.texto1{color: #000000; font-family: "comic sans ms"; font-size: 17px; font-weight: bold;}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
